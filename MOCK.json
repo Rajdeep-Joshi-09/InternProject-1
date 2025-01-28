@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "role": "Marketing Manager",
+    "name": "Jane Maguire",
+    "image": "./assets/one.png"
+  },
+  {
+    "id": 2,
+    "role": "Salse Manager",
+    "name": "Andrew Garfield",
+    "image": "./assets/two.png"
+  },
+  {
+    "id": 3,
+    "role": "Department Manager",
+    "name": "Tom Holland",
+    "image": "./assets/three.png"
+  }
+]
